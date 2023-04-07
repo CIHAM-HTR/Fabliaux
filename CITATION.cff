@@ -7,7 +7,7 @@ message: >-
   If you use this dataset, please cite it using the metadata
   from this file.
 type: dataset
- authors:
+authors:
   - given-names: Ariane
     family-names: Pinche
     email: ariane.pinche@cnrs.fr
