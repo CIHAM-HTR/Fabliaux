@@ -7,12 +7,19 @@ message: >-
   If you use this dataset, please cite it using the metadata
   from this file.
 type: dataset
-authors:
-  - given-names: Ariane
-    family-names: Pinche
-    email: ariane.pinche@cnrs.fr
-    affiliation: CIHAM
-    orcid: 'https://orcid.org/0000-0002-7843-5050'
+ authors:
+  - name: Corinne
+    surname: Pierreville
+    orcid: 0009-0003-3074-3841
+    roles:
+      - project-manager
+  - name: Ariane
+    surname: Pinche
+    orcid: 0000-0002-7843-5050
+    roles:
+      - transcriber
+      - aligner
+      - quality-control
 repository-code: 'https://github.com/CIHAM-HTR/Fabliaux/data'
 abstract: >-
   HTR data sets from medieval manuscripts (13th-14th c.)
