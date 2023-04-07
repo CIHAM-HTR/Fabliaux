@@ -1,6 +1,6 @@
 Fabliaux
 =====================
-
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
 
 **HTR data sets from medieval manuscripts (13th-14th c.) collecting "fabliaux" in Old French**
 
