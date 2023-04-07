@@ -1,16 +1,20 @@
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: Fabliaux
 url: https://github.com/CIHAM-HTR/Fabliaux
-authors: []
-institutions:
+authors:
   - name: Corinne
+    surname: Pierreville
+    orcid: 0009-0003-3074-3841
     roles:
       - project-manager
   - name: Ariane
+    surname: Pinche
+    orcid: 0000-0002-7843-5050
     roles:
       - transcriber
       - aligner
       - quality-control
+institutions: []
 description: HTR data sets from medieval manuscripts (13th-14th c.) collecting "fabliaux"
 project-website: https://projet.biblissima.fr/fr/appels-projets/projets-retenus/fabliaux
 language:
