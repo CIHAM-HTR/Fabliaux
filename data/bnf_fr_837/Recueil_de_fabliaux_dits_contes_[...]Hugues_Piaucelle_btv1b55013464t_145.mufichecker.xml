@@ -1,4 +1,4 @@
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/20eSc_line_98062cda01/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -9,7 +9,7 @@
   
   <Tags>
     <OtherTag ID="BT5203" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT5202" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT5201" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT5200" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT5199" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT5198" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
-    <OtherTag ID="LT1726" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1721" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1720" LABEL="default" DESCRIPTION="line type default"/>
+    <OtherTag ID="LT1726" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1721" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1720" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -730,7 +730,7 @@
           <Shape><Polygon POINTS="864 61 864 101 916 101 920 61"/></Shape>
           
           
-          <TextLine ID="eSc_line_98062cda" BASELINE="872 91 913 94" HPOS="866" VPOS="61" WIDTH="46" HEIGHT="85">
+          <TextLine ID="eSc_line_98062cda" TAGREFS="LT1721" BASELINE="872 91 913 94" HPOS="866" VPOS="61" WIDTH="46" HEIGHT="85">
             <Shape><Polygon POINTS="899 61 886 61 873 61 871 90 866 133 904 146 912 93 912 61 899 61"/></Shape>
 	    <String CONTENT="68" HPOS="866" VPOS="61" WIDTH="46" HEIGHT="85"/>
           </TextLine>

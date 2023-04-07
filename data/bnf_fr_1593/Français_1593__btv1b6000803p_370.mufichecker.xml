@@ -9,7 +9,7 @@
   
   <Tags>
     <OtherTag ID="BT5065" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT5064" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT5063" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT5062" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT5061" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT5060" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT5059" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1730" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1724" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1711" LABEL="default" DESCRIPTION="line type default"/>
+    <OtherTag ID="LT1730" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1724" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1711" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -340,7 +340,7 @@
         
 
         
-        <TextBlock ID="eSc_dummyblock_">
+        <TextBlock ID="eSc_dummyblock_" TAGREFS="BT5059">
           
           
           <TextLine ID="eSc_line_b354ac4b" BASELINE="133 126 445 123" HPOS="132" VPOS="107" WIDTH="313" HEIGHT="28">
