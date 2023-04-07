@@ -1,32 +1,23 @@
-Title of your dataset
+Fabliaux
 =====================
 
 
-**You can delete the following three paragraphs, they are just there to explain what's going on**
+**HTR data sets from medieval manuscripts (13th-14th c.) collecting "fabliaux" in Old French**
 
 
-*Notes on the template: you need to change the htr-united.yml file here so that you repository is correctly documented. Check https://htr-united.github.io/document-your-data.html to generate one.*
+*project-website: https://projet.biblissima.fr/fr/appels-projets/projets-retenus/fabliaux*
 
-*Your data should go in the [./data](./data) folder where they should be put in subfolder, such as `./data/manuscript1/alto.xml`*
+## License : 
 
-*The template contains the tools used by HTR-United, they are configured so that you don't need to do it yourself. This will allow for some quality control.*
-
-
-## License
-
-Complete here
+CC-BY 4.0
 
 ## Description
 
 Complete here
 
-## Extent
-
-Complete here
-
 ## Transcription guidelines
 
-Complete here.
+The data follow the standards recommended by the CREMMALAB project, see Ariane Pinche. Transcription Guide for 10th to 15th Century Manuscripts. 2022. ⟨hal-03697382⟩
 
 ## Sources
 
