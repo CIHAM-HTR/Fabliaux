@@ -1,31 +1,36 @@
-schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
-title: Repository’s Title
-url: 'Link to your data repository'
-project-name: >
-    Your project name
-project-website: 'Link to your project'
-authors:
-    - name: 'Author Name'
-      surname: 'Author Firstname'
-      roles:
-      - 'transcriber'
-description: >
-  Description 
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+title: Fabliaux
+url: https://github.com/CIHAM-HTR/Fabliaux
+authors: []
+institutions:
+  - name: Corinne
+    roles:
+      - project-manager
+  - name: Ariane
+    roles:
+      - transcriber
+      - aligner
+      - quality-control
+description: HTR data sets from medieval manuscripts (13th-14th c.) collecting "fabliaux"
+project-website: https://projet.biblissima.fr/fr/appels-projets/projets-retenus/fabliaux
 language:
-  - eng
   - fra
-script: 
-  - Latn
-script-type: 'only-manuscript'
-time: 
-  notBefore: "1500"
-  notAfter: "1300"
-hands: 
-  count: '1-per-folder'
-  precision: 'exact'
+production-software: eScriptorium + Kraken
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1200'
+  notAfter: '1402'
+hands:
+  count: 1-per-folder
+  precision: exact
 license:
-  - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
-format: 'Alto-XML'
-volume:
-  - metric: 'files'
-    count: 10
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+citation-file-link: https://github.com/CIHAM-HTR/Fabliaux/blob/master/CITATION.cff
+transcription-guidelines: >-
+  Les données suivent les normes préconisées per le projet CREMMALAB, voir
+  Ariane Pinche. Guide de transcription pour les manuscrits du Xe au XVe siècle.
+  2022. ⟨hal-03697382⟩
