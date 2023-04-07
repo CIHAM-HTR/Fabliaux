@@ -3,6 +3,7 @@ name: HTR United Workflow
 'on':
   - push
   - pull_request
+permissions: read-all|write-all
 jobs:
   HTRUC:
     runs-on: ubuntu-latest
