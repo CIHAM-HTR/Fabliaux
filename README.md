@@ -30,5 +30,5 @@ Data List :
 
  Shelfmark            | Biblissima | Pages | Type    | Century | Color | Content |  
 ----------------------|--------|------------|-------|---------|---------|-------|
- Paris, BnF, fr. 837  | [→](https://portail.biblissima.fr/fr/ark:/43093/mdata71aeaf65cb8c3def7951d539f0f53d4e5fadd42d) | 5     | Fabliau | 13      | True  |  Trois dames qui troverent |un vit       |  
- Paris, BnF, fr. 1593 | [→](https://portail.biblissima.fr/fr/ark:/43093/mdataf10227c6c8157e80d66311ceb746187f1ab3ebc3)   | 5     | Fabliau | 13      | True  |   Boivin de Provins    | 
+ Paris, BnF, fr. 837  | [→](https://portail.biblissima.fr/fr/ark:/43093/mdata71aeaf65cb8c3def7951d539f0f53d4e5fadd42d) | 5     | Fabliau | 13      | True  |  Trois dames qui troverent un vit     |  
+ Paris, BnF, fr. 1593 | [→](https://portail.biblissima.fr/fr/ark:/43093/mdataf10227c6c8157e80d66311ceb746187f1ab3ebc3)   | 5     | Fabliau | 13      | True  |   Boivin de Provins    | 
