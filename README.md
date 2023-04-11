@@ -1,5 +1,7 @@
 Fabliaux
 =====================
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
+[![HTR United Workflow](https://github.com/CIHAM-HTR/Fabliaux/actions/workflows/htr-united-workflows.yml/badge.svg)](https://github.com/CIHAM-HTR/Fabliaux/actions/workflows/htr-united-workflows.yml) 
 
 
 **HTR data sets from medieval manuscripts (13th-14th c.) collecting "fabliaux" in Old French**
