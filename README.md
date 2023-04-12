@@ -4,7 +4,7 @@ Fabliaux
 [![HTR United Workflow](https://github.com/CIHAM-HTR/Fabliaux/actions/workflows/htr-united-workflows.yml/badge.svg)](https://github.com/CIHAM-HTR/Fabliaux/actions/workflows/htr-united-workflows.yml) 
 
 
-**HTR data sets from medieval manuscripts (13th-14th c.) collecting "fabliaux" in Old French** funded by Biblissima +**
+**HTR data sets from medieval manuscripts (13th-14th c.) collecting "fabliaux" in Old French funded by Biblissima +**
 
 
 *project-website: https://projet.biblissima.fr/fr/appels-projets/projets-retenus/fabliaux*
