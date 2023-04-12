@@ -4,7 +4,7 @@ Fabliaux
 [![HTR United Workflow](https://github.com/CIHAM-HTR/Fabliaux/actions/workflows/htr-united-workflows.yml/badge.svg)](https://github.com/CIHAM-HTR/Fabliaux/actions/workflows/htr-united-workflows.yml) 
 
 
-**HTR data sets from medieval manuscripts (13th-14th c.) collecting "fabliaux" in Old French**
+**HTR data sets from medieval manuscripts (13th-14th c.) collecting "fabliaux" in Old French** funded by Biblissima +
 
 
 *project-website: https://projet.biblissima.fr/fr/appels-projets/projets-retenus/fabliaux*
@@ -32,5 +32,5 @@ Data List :
 
  Shelfmark            | Biblissima | Pages | Type    | Century | Color | Content |  
 ----------------------|--------|------------|-------|---------|---------|-------|
- Paris, BnF, fr. 837  | [→](https://portail.biblissima.fr/fr/ark:/43093/mdata71aeaf65cb8c3def7951d539f0f53d4e5fadd42d) | 5     | Fabliau | 13      | True  |  Trois dames qui troverent un vit     |  
- Paris, BnF, fr. 1593 | [→](https://portail.biblissima.fr/fr/ark:/43093/mdataf10227c6c8157e80d66311ceb746187f1ab3ebc3)   | 5     | Fabliau | 13      | True  |   Boivin de Provins    | 
+ [Paris, BnF, fr. 837](https://gallica.bnf.fr/ark:/12148/btv1b55013464t)  | [→](https://portail.biblissima.fr/fr/ark:/43093/mdata71aeaf65cb8c3def7951d539f0f53d4e5fadd42d) | 5     | Fabliau | 13      | True  |  Trois dames qui troverent un vit     |  
+ [Paris, BnF, fr. 1593](https://gallica.bnf.fr/ark:/12148/btv1b6000803p) | [→](https://portail.biblissima.fr/fr/ark:/43093/mdataf10227c6c8157e80d66311ceb746187f1ab3ebc3)   | 5     | Fabliau | 13      | True  |   Boivin de Provins    | 
