@@ -24,7 +24,7 @@ CC-BY 4.0
 
 ## Transcription guidelines
 
-Data follow the standards recommended by the CREMMALAB project, see Ariane Pinche. Transcription Guidelines for 10th to 15th Century Manuscripts. 2022. [<hal-03697382>](https://hal.science/hal-03697382/document).
+Data follow the standards recommended by the CREMMALAB project, see Ariane Pinche. Transcription Guidelines for 10th to 15th Century Manuscripts. 2022. [hal-03697382](https://hal.science/hal-03697382/document).
 
 ## Sources
 
