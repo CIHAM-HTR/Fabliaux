@@ -4,7 +4,7 @@ Fabliaux
 [![HTR United Workflow](https://github.com/CIHAM-HTR/Fabliaux/actions/workflows/htr-united-workflows.yml/badge.svg)](https://github.com/CIHAM-HTR/Fabliaux/actions/workflows/htr-united-workflows.yml) 
 
 
-**HTR data sets from medieval manuscripts (13th-14th c.) collecting "fabliaux" in Old French** funded by Biblissima +
+**HTR data sets from medieval manuscripts (13th-14th c.) collecting "fabliaux" in Old French funded by Biblissima +**
 
 
 *project-website: https://projet.biblissima.fr/fr/appels-projets/projets-retenus/fabliaux*
@@ -34,7 +34,7 @@ Manuscript layout has been described using **SegmOnto** controlled vocabulary, s
 
 ## Transcription guidelines
 
-Data follow the standards recommended by the CREMMALAB project, see Ariane Pinche. Transcription Guide for 10th to 15th Century Manuscripts. 2022. <hal-03697382>
+Data follow the standards recommended by the CREMMALAB project, see Ariane Pinche. Transcription Guidelines for 10th to 15th Century Manuscripts. 2022. [hal-03697382](https://hal.science/hal-03697382/document).
 
 
 ## Sources
