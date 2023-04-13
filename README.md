@@ -22,9 +22,20 @@ Subsequently, it will make available the text of the largest possible number of 
 
 CC-BY 4.0
 
+
+## GT interface :
+
+Data have been made in **eScriptorium**, see https://gitlab.com/scripta/escriptorium
+
+
+## Layout analysis
+
+Manuscript layout has been described using **SegmOnto** controlled vocabulary, see : https://segmonto.github.io
+
 ## Transcription guidelines
 
 Data follow the standards recommended by the CREMMALAB project, see Ariane Pinche. Transcription Guide for 10th to 15th Century Manuscripts. 2022. <hal-03697382>
+
 
 ## Sources
 
