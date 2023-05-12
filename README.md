@@ -41,7 +41,8 @@ Data follow the standards recommended by the CREMMALAB project, see Ariane Pinch
 
 Data List :
 
- Shelfmark            | Biblissima | Pages | Type    | Century | Color | Content |  
-----------------------|--------|------------|-------|---------|---------|-------|
- [Paris, BnF, fr. 837](https://gallica.bnf.fr/ark:/12148/btv1b55013464t)  | [→](https://portail.biblissima.fr/fr/ark:/43093/mdata71aeaf65cb8c3def7951d539f0f53d4e5fadd42d) | 5     | Fabliau | 13      | True  |  Trois dames qui troverent un vit     |  
- [Paris, BnF, fr. 1593](https://gallica.bnf.fr/ark:/12148/btv1b6000803p) | [→](https://portail.biblissima.fr/fr/ark:/43093/mdataf10227c6c8157e80d66311ceb746187f1ab3ebc3)   | 5     | Fabliau | 13      | True  |   Boivin de Provins    | 
+ | Shelfmark                                                                          | Biblissima                                                                                     | Pages | Type    | Century | Color | Content                          |   |
+|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------|---------|---------|-------|----------------------------------|---|
+| [Paris, BnF, fr. 837](https://gallica.bnf.fr/ark:/12148/btv1b55013464t)            | [→](https://portail.biblissima.fr/fr/ark:/43093/mdata71aeaf65cb8c3def7951d539f0f53d4e5fadd42d) | 5     | Fabliau | 13      | True  | Trois dames qui troverent un vit |   |
+| [Paris, BnF, fr. 1593](https://gallica.bnf.fr/ark:/12148/btv1b6000803p)            | [→](https://portail.biblissima.fr/fr/ark:/43093/mdataf10227c6c8157e80d66311ceb746187f1ab3ebc3) | 5     | Fabliau | 13      | True  | Boivin de Provins                |   |
+| [Bern, Burgerbibliothek, 354](https://www.e-codices.unifr.ch/fr/list/one/bbb/0354) | [→](https://portail.biblissima.fr/ark:/43093/mdata398bc82cd912f8adea6a1a2b1505ed247d1e514e)     | 5     | Fabliau | 14      | True  | Berangier au long cul            |   |
