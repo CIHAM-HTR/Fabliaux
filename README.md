@@ -49,3 +49,4 @@ Data List :
 | [Bern, Burgerbibliothek, 354](https://www.e-codices.unifr.ch/fr/list/one/bbb/0354) | [→](https://portail.biblissima.fr/ark:/43093/mdata398bc82cd912f8adea6a1a2b1505ed247d1e514e)    | 5     | Fabliau | 14      | True  | Berangier au long cul                                                                      |
 | [Paris, BnF, fr. 25545](https://gallica.bnf.fr/ark:/12148/btv1b9063357q)           | [→](https://portail.biblissima.fr/fr/ark:/43093/mdata16f3088ecf52a6b01ce89cd5b0f191cbf9401257) | 5     | Fabliau | 14      | True  | Une seule femme qui servoit cent chevaliers / De chevalier qui faisait parler cons et culz |
 | [Paris, Mazarine, 1553](https://gallica.bnf.fr/ark:/12148/btv1b8454669r)            | [→](https://portail.biblissima.fr/fr/ark:/43093/mdata3087b209c50fbf292f43467fac90b8a27a448037) | 5     | Fabliau | 13      | True  | Dou Maunier de Aleus                                                                       |
+
