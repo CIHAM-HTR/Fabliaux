@@ -40,13 +40,13 @@ transcription-guidelines: "The data follow the standards recommended by the CREM
   \ 2022. \u27E8hal-03697382\u27E9"
 volume:
 - metric: characters
-  count: 33785
+  count: 44963
 - metric: files
-  count: 20
+  count: 25
 - metric: lines
-  count: 1564
+  count: 2070
 - metric: regions
-  count: 75
+  count: 94
 characters:
   mode: NFD
   members:
@@ -55,78 +55,84 @@ characters:
   - s
   - a
   - t
-  - o
   - u
+  - o
   - n
   - r
   - l
+  - m
   - c
   - d
-  - m
   - "\u0303"
   - p
   - f
   - h
   - b
-  - q
-  - .
-  - z
-  - g
   - "\u204A"
+  - g
+  - .
+  - q
+  - z
   - "\u033E"
   - Q
   - "\uA751"
-  - x
-  - "\u0365"
   - S
-  - L
+  - x
   - I
-  - E
+  - L
   - D
-  - "\uA76F"
   - C
+  - "\u0365"
+  - E
+  - A
   - "\uA770"
   - T
-  - N
-  - A
-  - O
+  - k
+  - "\uA76F"
   - M
-  - "\u0363"
+  - N
+  - O
   - P
-  - y
   - U
-  - '9'
+  - "\u0363"
+  - y
   - F
+  - '9'
   - "\uA758"
   - B
+  - G
+  - J
   - '1'
+  - /
+  - "\u1E9C"
   - "\u0142"
   - "\u27E6"
   - "\u27E7"
-  - "\u1E9C"
-  - G
-  - ''''
+  - "\u1DD1"
+  - R
   - '7'
+  - H
+  - ''''
+  - "\u0364"
+  - w
   - ':'
   - '4'
-  - J
-  - H
-  - R
-  - '8'
-  - "\uF1AC"
+  - '0'
   - '6'
+  - '8'
+  - '5'
+  - K
+  - "\uF1AC"
   - "\u0366"
   - v
   - "\u036B"
-  - "\u0364"
-  - '0'
+  - V
+  - "\u1DE4"
   - "\u205C"
   - '3'
   - "\u0111"
-  - "\u1DE4"
-  - '5'
+  - X
   - "\u2038"
   - "\u1DE0"
-  - "\u1DD1"
   - '2'
   - "\uA753"
